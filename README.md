@@ -9,7 +9,6 @@ This project explores functional programming concepts and the performance impact
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation 🛠️
 

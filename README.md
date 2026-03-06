@@ -70,6 +70,3 @@ time ./fibT 40
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## License 📄
-
-[MIT License] (Placeholder - Please update with your actual repository license).
